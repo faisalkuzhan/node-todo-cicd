@@ -1,4 +1,4 @@
-#This is a Dockerfile for trigger
+#This is a Dockerfile for trigger to automaticaly i jenkins
 FROM node:12.2.0-alpine
 WORKDIR app
 COPY . .
