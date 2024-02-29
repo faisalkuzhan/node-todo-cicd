@@ -1,4 +1,4 @@
-#This is a Dockerfile
+#This is a Dockerfile updated for automaticaly for triggered
 FROM node:12.2.0-alpine
 WORKDIR app
 COPY . .
